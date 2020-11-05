@@ -4,7 +4,7 @@
 Use this tool to get up and running fast with configs and more in your project.
 The tool currently supports creating React apps (using [`create-react-app`](https://facebook.github.io/create-react-app)), [ReasonReact](https://reasonml.github.io/reason-react/) apps and [GraphQL](https://graphql.org/) APIs with TypeScript. It can also create some basic configs in your project.
 
-This tool was previously located [@iteam1337](https://github.com/iteam1337).
+This tool was initially developed at [@iteam1337](https://github.com/iteam1337) and donated as open source with MIT license.
 
 ## Installation
 
